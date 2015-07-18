@@ -1,0 +1,60 @@
+p{
+	color: gray;
+	background: white;
+	font-size: 20px;
+}
+h2{
+	color: black;
+}
+
+li{
+	background-color: #FFFFFF;
+}
+
+img{
+	padding: 2px solid black;
+	border: 10px solid black;
+	text-align: center;
+}
+body{
+	font-family: Georgia;
+	color: black;
+}
+#about{
+	background: white;
+}
+
+header {
+		text-align: center; 
+		color: black;
+		margin-bottom:50px;	
+}
+body {
+	color:#707070;
+}
+.contact{
+	background: url("images/dark_embroidery.png");
+	height: 200px;
+	text-align: center;
+}
+.contact h2 {
+	color: white;
+}
+
+.contact img {
+	height: 100px;
+	width:100px;
+	border-radius: 50%;
+}
+.contact img:hover {
+	opacity:0.5;
+}
+ul.websites{
+
+	padding:0;
+}
+
+ul.websites li{
+	list-style: none;
+	display:inline-block;
+}
