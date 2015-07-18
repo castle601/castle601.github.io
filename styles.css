@@ -19,6 +19,7 @@ img{
 body{
 	font-family: Georgia;
 	color: black;
+	margin: 0px;
 }
 #about{
 	background: white;
@@ -27,14 +28,19 @@ body{
 header {
 		text-align: center; 
 		color: black;
-		margin-bottom:50px;	
+		margin-bottom:50px;
+		margin-top:0px;	
 }
 body {
 	color:#707070;
 }
 .header {
-	background-image: url(images/background.jpg);
+	
+	background: url(images/backgroundBW.jpg);
 	height: 500px;
+}
+.header img{
+	margin-top:100px;
 }
 .contact{
 	background: url(mages/dark_embroidery.png);
