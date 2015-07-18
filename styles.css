@@ -32,8 +32,12 @@ header {
 body {
 	color:#707070;
 }
+.header {
+	background-image: url(images/background.jpg);
+	height: 500px;
+}
 .contact{
-	background: url("images/dark_embroidery.png");
+	background: url(mages/dark_embroidery.png);
 	height: 200px;
 	text-align: center;
 }
